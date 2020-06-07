@@ -11,3 +11,8 @@ Please considering it as a toy.
 Please let me known, if you find any implementation of GC in pytorch. 
 
 Thanks.
+
+
+Ref:
+
+[1] An Introduction to the Conjugate Gradient Method Without the Agonizing Pain
