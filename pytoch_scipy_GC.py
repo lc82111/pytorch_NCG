@@ -1,7 +1,6 @@
 from scipy import optimize
 import torch
 import numpy as np
-import pdb
 
 ################################### GC in Scipy #####################################
 def f_scipy(x, *args):
